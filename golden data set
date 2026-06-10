@@ -1,0 +1,12 @@
+Golden Dataset
+
+A benchmark containing 50 real-world NLP scenarios spanning multiple categories.
+
+Each scenario includes:
+
+User prompt
+Context
+Expected purpose
+Expected outcome
+Risk classification
+Validation criteria
